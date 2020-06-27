@@ -1,6 +1,4 @@
 # count-medal
-PHP count medal 
-
 EXAMPLE:
 
 input
