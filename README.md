@@ -2,7 +2,9 @@
 PHP count medal 
 
 EXAMPLE:
+
 input
+
     get_medal(
       array(
         array('Indonesia', 'gold'),
@@ -14,7 +16,9 @@ input
         array('Indonesia', 'gold'),
       )
     );
+    
 output
+
    Array(
        Array (
          [negara] => 'Indonesia'
