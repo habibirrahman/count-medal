@@ -2,6 +2,8 @@
 PHP count medal 
 
 EXAMPLE:
+
+
 get_medal(
 
   array(
