@@ -1,5 +1,5 @@
 # count-medal
-example
+<p>example</p>
 <i>input</i>
 
     get_medal(
