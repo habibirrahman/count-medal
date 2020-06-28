@@ -1,7 +1,6 @@
 # count-medal
-EXAMPLE:
-
-input
+example
+<i>input</i>
 
     get_medal(
       array(
@@ -15,7 +14,7 @@ input
       )
     );
     
-output
+<i>output</i>
 
     Array(
         Array (
